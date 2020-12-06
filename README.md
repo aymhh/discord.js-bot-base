@@ -13,7 +13,7 @@ a simple discord.js base that helps you get started with the making off bots
    - `npm install discord.js@latest` to install the latest discord.js modules
    - `npm install fs` required extra modules
    - `npm install discord-markdown` required extra modules 
-5. read through the `config.json` file and input all the information *(all of it is important)*
+5. read through the `config.json` file which is found in the `/priv/` directory and input all the information *(all of it is important)*
 6. also read through the code notes and have fun!
 
 ## License
