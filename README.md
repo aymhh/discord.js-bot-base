@@ -1,4 +1,4 @@
-# Discord.JS Bot Base
+# Discord.JS Bot Base (FOR Shmoony branch)
 
 a simple discord.js base that helps you get started with the making off bots
 
