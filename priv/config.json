@@ -1,10 +1,10 @@
 {
-    "prefix": "set's the prefix for the bot to be triggered by and to pick up",
-    "tokenID": "set's it to the unique identifier for the bot, get it from the discord developers portal",
-    "botHandlerID": "set's it to the owner of the bot's ID, get it by setting your user ID",
-    "mainColor": "set it to the color of the what you want the bot to use for embeds",
-    "errorColor": "set it to the color of what you want the bot to use for embeds that return errors",
-    "commandsChannelName": "set it to the name of the channel without \"#\", used for event's such as: deleted messages, edited messages, users joining the server, users leaving the server and etc.",
-    "logChannelName": "set it to the name of the channel without \"#\", used to log messages in the event of an error occuring",
-    "errorChannelName": "set it to the name of the channel without \"#\", used to restrict bot usage to specifically that channel"
+    "prefix": "!",
+    "tokenID": "Nzg0NjMzMTE4MjIwNDg0NjQ4.X8sIiQ.F6K3W1NBGWWmOEQcGFMyT9DXNcA",
+    "botHandlerID": "176610715686273024",
+    "mainColor": "RANDOM",
+    "errorColor": "RANDOM",
+    "commandsChannelName": "wow",
+    "logChannelName": "wow",
+    "errorChannelName": "wow"
 }
